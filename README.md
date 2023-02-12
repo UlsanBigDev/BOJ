@@ -11,3 +11,6 @@
 |2주차|[조건문](https://www.acmicpc.net/step/4)|7문제|
 |3주차|[반복문](https://www.acmicpc.net/step/3)|12문제|
 |4주차|[1차원 배열](https://www.acmicpc.net/step/6)|9문제|
+|5주차|[함수](https://www.acmicpc.net/step/5)|3문제|
+|6주차|[문자열](https://www.acmicpc.net/step/7)|10문제|
+|7주차|[기본 수학 1](https://www.acmicpc.net/step/8)|8문제|
