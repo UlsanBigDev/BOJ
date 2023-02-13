@@ -1,4 +1,4 @@
-//너무 별로
+//너무 별로, switch case문 시도
 let str = readLine()!.map{String($0)}
 let arr2 = ["A", "B", "C"]
 let arr3 = ["D", "E", "F"]
