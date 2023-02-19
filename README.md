@@ -14,3 +14,4 @@
 |5주차|[함수](https://www.acmicpc.net/step/5)|3문제|
 |6주차|[문자열](https://www.acmicpc.net/step/7)|10문제|
 |7주차|[기본 수학 1](https://www.acmicpc.net/step/8)|8문제|
+|8주차|[기본 수학 2](https://www.acmicpc.net/step/10)|6문제|
